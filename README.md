@@ -1,25 +1,39 @@
 
-Hi there, I'm Berto! 👋
+**Hi there, I'm Berto! 👋**
+
 I'm a passionate full-stack developer who thrives on building innovative solutions and pushing the boundaries of what's possible with code. My journey spans across web development, blockchain technology, and system administration, always with an eye toward creating meaningful impact through technology.
 What I Do
 
 Web Development: Crafting responsive, performant applications with modern JavaScript frameworks
+
 Blockchain Development: Building decentralized applications and smart contracts on Ethereum
+
 Backend Engineering: Designing scalable server-side solutions with Node.js and Python
+
 DevOps & Systems: Managing Linux environments and streamlining development workflows
 
 Tech Arsenal
+
 Frontend:     JavaScript, React, Vue.js, HTML5, CSS3
+
 Backend:      Node.js, Python, Express.js, FastAPI
+
 Blockchain:   Solidity, Ethers.js, Web3.js, Hardhat
+
 Tools:        Git, Docker, Linux, CI/CD
+
 Databases:    MongoDB, PostgreSQL, Redis
-Let's Connect
+
+**Let's Connect**
+
 I'm always excited to collaborate on innovative projects and explore new technologies. Check out my repositories to see what I've been working on lately, and don't hesitate to reach out if you'd like to build something amazing together!
 
-Email:albertangeles190@gmail.com
-Twitter:ICEd_d2
-Telegram:@laflame_jaez
+Email: albertangeles190@gmail.com
+
+Twitter: ICEd_d2
+
+Telegram: @laflame_jaez
+
 ---
 📊 Github Stats,
 <p align="center">

@@ -1,4 +1,4 @@
----
+
 Hi there, I'm Berto! 👋
 I'm a passionate full-stack developer who thrives on building innovative solutions and pushing the boundaries of what's possible with code. My journey spans across web development, blockchain technology, and system administration, always with an eye toward creating meaningful impact through technology.
 What I Do
@@ -20,7 +20,7 @@ I'm always excited to collaborate on innovative projects and explore new technol
 Email:albertangeles190@gmail.com
 Twitter:ICEd_d2
 Telegram:@laflame_jaez
-
+---
 📊 Github Stats,
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&color=39FF14&pause=1000&center=true&vCenter=true&width=435&lines=Web3+Developer;ML+Engineer;Node+Infra+Specialist&background=00000000" />
